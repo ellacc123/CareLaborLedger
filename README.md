@@ -10,7 +10,7 @@ Most emotional labor goes unrecognized. This app helps make that invisible work 
 
 | Ledger | Log Entry | Insights | Instructions |
 |--------|-----------|----------|--------------|
-| ![Ledger](ledger.png) | ![Log Entry](log-entry.png) | ![Insights](insights.png) | ![Instructions](instructions.png) |
+| ![Ledger](LedgerT.png) | ![Log Entry](log-entry.png) | ![Insights](Insights.png) | ![Instructions](Instructions.png) |
 
 ## Features
 

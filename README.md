@@ -1,6 +1,11 @@
 # Care Labor Ledger
 
-A lightweight SwiftUI app for experimenting with how care and emotional labor might be tracked in a simple personal ledger. This project runs entirely locally using SwiftUI with no external dependencies.
+A Swift/SwiftUI app for experimenting with how care and emotional labor might be tracked in a simple personal ledger. 
+
+Goal:
+- Make invisible emotional labor visible and quantifiable
+- Create a personal record of care work that typically goes unrecognized
+- Honor the time and emotional energy students invest in supporting others
 
 ---
 

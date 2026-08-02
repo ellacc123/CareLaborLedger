@@ -6,11 +6,13 @@ Most emotional labor goes unrecognized. This app helps make that invisible work 
 
 [![Demo Video](https://img.youtube.com/vi/pMl69C_k0W8/0.jpg)](https://www.youtube.com/watch?v=pMl69C_k0W8)
 
-## Screenshots
+## Interface
 
-| Ledger | Log Entry | Insights | Instructions |
-|--------|-----------|----------|--------------|
-| ![Ledger](LedgerT.png) | ![Log Entry](log-entry.png) | ![Insights](Insights.png) | ![Instructions](Instructions.png) |
+![App interface](AppInterface.png)
+
+| Ledger | Insights | Instructions |
+|--------|----------|--------------|
+| ![Ledger](LedgerTab.png) | ![Insights](Insights.png) | ![Instructions](Instructions.png) |
 
 ## Features
 

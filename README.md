@@ -4,6 +4,7 @@ A Swift/SwiftUI app for tracking care and emotional labor in a simple personal l
 
 Most emotional labor goes unrecognized. This app helps make that invisible work visible and quantifiable, creating a personal record of the care work students invest in supporting others.
 
+Demo video:
 [![Demo Video](https://img.youtube.com/vi/pMl69C_k0W8/0.jpg)](https://www.youtube.com/watch?v=pMl69C_k0W8)
 
 ## Interface

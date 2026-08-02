@@ -1,39 +1,5 @@
 # Care Labor Ledger
 
-A Swift/SwiftUI app for experimenting with how care and emotional labor might be tracked in a simple personal ledger. 
-
-Goal:
-- Make invisible emotional labor visible and quantifiable
-- Create a personal record of care work that typically goes unrecognized
-- Honor the time and emotional energy students invest in supporting others
-
-Demo Video: https://www.youtube.com/watch?v=pMl69C_k0W8
-
----
-
-## Running the App Locally
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/<YOUR-USERNAME>/<YOUR-REPO>.git
-
-## Open the Project in Xcode
-
-2. Open Xcode  
-3. Go to **File → Open…**  
-4. Select the project folder (the folder containing the `.swift` files and `Assets.xcassets`)
-
-## Select a Simulator
-
-5. Use the device selector in the toolbar (e.g., **iPhone 15 Pro**)
-
-## Run the App
-
-6. Press **⌘R** to build and launch the app
-
-
-# Care Labor Ledger
-
 A Swift/SwiftUI app for tracking care and emotional labor in a simple personal ledger.
 
 Most emotional labor goes unrecognized. This app helps make that invisible work visible and quantifiable, creating a personal record of the care work students invest in supporting others.

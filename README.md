@@ -7,6 +7,8 @@ Goal:
 - Create a personal record of care work that typically goes unrecognized
 - Honor the time and emotional energy students invest in supporting others
 
+Demo Video: https://www.youtube.com/watch?v=pMl69C_k0W8
+
 ---
 
 ## Running the App Locally
